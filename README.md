@@ -1,6 +1,7 @@
 # Awesome MCP Servers
 
-> A list of Model Context Protocol (MCP) servers curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
+> Model Context Protocol (MCP) servers based in a list curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
+> Changes by jaimevale
 
 ## Sponsors
 
