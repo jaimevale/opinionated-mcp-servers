@@ -472,3 +472,52 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+
+
+
+
+| Name                | Category                                | URL                                                | Authentication | Maintainer                |
+|---------------------|-----------------------------------------|----------------------------------------------------|----------------|---------------------------|
+| Asana               | Project Management                      | https://mcp.asana.com/sse                          | OAuth2.1       | Asana                     |
+| Atlasian            | Software Development                    | https://mcp.atlassian.com/v1/sse                   | OAuth2.1       | Atlassian                 |
+| Cloudflare Workers  | Software Development                    | https://bindings.mcp.cloudflare.com/sse            | OAuth2.1       | Cloudflare                |
+| Cloudflare Observability | Observability                      | https://observability.mcp.cloudflare.com/sse       | OAuth2.1       | Cloudflare                |
+| Dialer              | Outbound Phone Calls                    | https://getdialer.app/sse                          | OAuth2.1       | Dialer                    |
+| GitHub              | Software Development                    | https://api.githubcopilot.com/mcp                  | OAuth2.1       | GitHub                    |
+| Globalping          | Software Development                    | https://mcp.globalping.dev/sse                     | OAuth2.1       | Globalping                |
+| Intercom            | Customer Support                        | https://mcp.intercom.com/sse                       | OAuth2.1       | Intercom                  |
+| Linear              | Project Management                      | https://mcp.linear.app/sse                         | OAuth2.1       | Linear                    |
+| Listenetic          | Productivity                            | https://mcp.listenetic.com/v1/mcp                  | OAuth2.1       | Listenetic                |
+| Neon                | Software Development                    | https://mcp.neon.tech/sse                          | OAuth2.1       | Neon                      |
+| Octagon             | Market Intelligence                     | https://mcp.octagonagents.com/mcp                  | OAuth2.1       | Octagon                   |
+| OneContext          | RAG-as-a-Service                        | https://rag-mcp-2.whatsmcp.workers.dev/sse         | OAuth2.1       | OneContext                |
+| PayPal              | Payments                                | https://mcp.paypal.com/sse                         | OAuth2.1       | PayPal                    |
+| Plaid               | Payments                                | https://api.dashboard.plaid.com/mcp/sse            | OAuth2.1       | Plaid                     |
+| Prisma Postgres     | Database                                | https://mcp.prisma.io/mcp                          | OAuth2.1       | Prisma Postgres           |
+| Scorecard           | AI Evaluation                           | https://scorecard-mcp.dare-d5b.workers.dev/sse     | OAuth2.1       | Scorecard                 |
+| Sentry              | Software Development                    | https://mcp.sentry.dev/sse                         | OAuth2.1       | Sentry                    |
+| Square              | Payments                                | https://mcp.squareup.com/sse                       | OAuth2.1       | Square                    |
+| Turkish Airlines    | Airlines                                | https://mcp.turkishtechlab.com/mcp                 | OAuth2.1       | Turkish Technology        |
+| Webflow             | CMS                                     | https://mcp.webflow.com/sse                        | OAuth2.1       | Webflow                   |
+| Wix                 | CMS                                     | https://mcp.wix.com/sse                            | OAuth2.1       | Wix                       |
+| Kollektiv           | Documentation                           | https://mcp.thekollektiv.ai/sse                    | OAuth2.1       | Kollektiv                 |
+| Simplescraper       | Web Scraping                            | https://mcp.simplescraper.io/mcp                   | OAuth2.1       | Simplescraper             |
+| WayStation          | Productivity                            | https://waystation.ai/mcp                          | OAuth2.1       | WayStation                |
+| Cloudflare Docs     | Documentation                           | https://docs.mcp.cloudflare.com/sse                | Open           | Cloudflare                |
+| DeepWiki            | RAG-as-a-Service                        | https://mcp.deepwiki.com/sse                       | Open           | Devin                     |
+| Hugging Face        | Software Development                    | https://hf.co/mcp                                  | Open           | Hugging Face              |
+| Semgrep             | Software Development                    | https://mcp.semgrep.ai/sse                         | Open           | Semgrep                   |
+| Remote MCP          | MCP Directory                           | https://mcp.remote-mcp.com                         | Open           | Remote MCP                |
+| LLM Text            | Data Analysis                           | https://mcp.llmtxt.dev/sse                         | Open           | LLM Text                  |
+| GitMCP              | Software Development                    | https://gitmcp.io/docs                             | Open           | GitMCP                    |
+| HubSpot             | CRM                                     | https://app.hubspot.com/mcp/v1/http                | API Key        | HubSpot                   |
+| Stripe              | Payments                                | https://mcp.stripe.com/                            | API Key        | Stripe                    |
+| Needle              | RAG-as-a-service                        | https://mcp.needle-ai.com/mcp                      | API Key        | Needle                    |
+| Zapier              | Automation                              | https://mcp.zapier.com/api/mcp/mcp                 | API Key        | Zapier                    |
+| Apify               | Web Data Extraction Platform            | https://mcp.apify.com                              | API Key        | Apify                     |
+| Dappier             | RAG-as-a-Service                        | https://mcp.dappier.com/mcp                        | API Key        | Dappier                   |
+| Mercado Pago        | Payments                                | https://mcp.mercadopago.com/mcp                    | API Key        | Mercado Pago MCP Server   |
+| Short.io            | Link shortener                          | https://ai-assistant.short.io/mcp                  | API Key        | Short.io                  |
+| monday.com          | Project Management,CRM,WorkOS,Service   | https://mcp.monday.com/sse                         | OAuth2.1       | monday MCP                |
+| Dodo Payments       | Payments                                | https://mcp.dodopayments.com/sse                   | API Key        | Dodo Payments             |
+
